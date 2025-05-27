@@ -176,6 +176,7 @@ h2 {
 @media (max-width: 750px){
     #about .container{
         flex-direction: column;
+        width: 100%;
     }
 
     #about .left img{
@@ -185,6 +186,7 @@ h2 {
     #about .right{
         align-items: center;
     }
+    
 
     #about h2{
         margin-top: 20px;
